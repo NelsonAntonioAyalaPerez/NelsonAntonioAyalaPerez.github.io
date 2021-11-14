@@ -2,11 +2,11 @@
  * configuración en tu servidor de Firebase.  */
 // @ts-ignore
 const firebaseConfig = {
-    apiKey: "AIzaSyBcPnVUElsuamBQXgAvIwUsVm4FJVPSA3Q",
-    authDomain: "nelsonantoniogithubio.firebaseapp.com",
-    projectId: "nelsonantoniogithubio",
-    storageBucket: "nelsonantoniogithubio.appspot.com",
-    messagingSenderId: "459309681714",
-    appId: "1:459309681714:web:2adaa710e4d449754dc02b",
-    measurementId: "G-P1ST246V4R"
+    apiKey: "AIzaSyD4nk5PTqTdq7BKgJOQnPLdoEjEKQ_ItOE",
+    authDomain: "tonigithub-793ed.firebaseapp.com",
+    projectId: "tonigithub-793ed",
+    storageBucket: "tonigithub-793ed.appspot.com",
+    messagingSenderId: "105378848540",
+    appId: "1:105378848540:web:79d8eae9dbc9f2f85a64d9",
+    measurementId: "G-BEB69NKV0E"
 };
